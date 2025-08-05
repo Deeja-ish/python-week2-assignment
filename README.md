@@ -1,5 +1,5 @@
 # python-week2-assignment
-### Instrctions
+## Instrctions
 Create an empty list called my_list.
 Append the following elements to my_list: 10, 20, 30, 40.
 Insert the value 15 at the second position in the list.
